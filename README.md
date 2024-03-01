@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<iframe src="https://wakatimedata.onrender.com/" width="100%" height="500px"></iframe>
+
+<figure>
+  <embed src="https://wakatime.com/share/@NerfeGuns/d160ea5f-22d7-4b3f-81af-905b153c949b.svg">
+</figure>
