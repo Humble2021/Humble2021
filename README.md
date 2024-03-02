@@ -14,4 +14,17 @@ Here are some ideas to get you started:
 
 ![SVG](https://wakatime.com/share/@NerfeGuns/d160ea5f-22d7-4b3f-81af-905b153c949b.svg)
 --!>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded Webpage</title>
+</head>
+<body>
+
+<iframe src="https://www.example.com" width="800" height="600" frameborder="0"></iframe>
+
+</body>
+</html>
 
