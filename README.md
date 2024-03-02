@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 
 ![SVG](https://wakatime.com/share/@NerfeGuns/d160ea5f-22d7-4b3f-81af-905b153c949b.svg)
 --!>
+
+[OpenAI](https://www.openai.com)
